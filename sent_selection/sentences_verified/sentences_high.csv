@@ -1,0 +1,595 @@
+reject,sentence_edit,sentence,mean_mem,low_mem_words,mid_mem_words,high_mem_words,index,original_index
+,,Between the minotaur and Eden's Sage.,0.7866412527,,,sage,torontofantasy.6.026436,torontofantasy.393714
+,,The best pubs near London Troxy.,0.7902516394,,,london,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.01233759
+1,,The law firm of Brian D.,0.7807385107,,,brian,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.04112562
+1,,"Saturday, June 02, 2018 - 11:00 a.m.",0.8582975229,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.00493748
+,,Q: What is 147451 times Pi?,0.7979231703,,,pi,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.02201694
+,,Marion dies September the next year.,0.8073866332,,,september,cornellmov.6.032556,cornellmov.0197891
+,,"Calumet City, Illinois, ladies and gentlemen.",0.7979972081,,,illinois,cocaspok2001.6.004652,cocaspok2001.0073759
+,,"Recently, Buddy Guy unplugged that cable.",0.7884810453,,,guy,cocaspok2003.6.001832,cocaspok2003.0034543
+,,I love browned butter and asparagus.,0.7896807657,,butter,asparagus,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.02736224
+,,This Colleen Sutton woman I'm with.,0.791821784,,,colleen,cornellmov.6.031171,cornellmov.0189182
+,,"Oh, look at this little guy.",0.7940511633,,,guy,cocaspok2003.6.005883,cocaspok2003.0090054
+,,"Thank you, Jacqui Jeras, in Atlanta.",0.8036485428,,,atlanta,cocaspok2005.6.002305,cocaspok2005.0040445
+,,What would your dear mother say?,0.786953592,,,dear,cornellmov.6.018287,cornellmov.0105928
+,Toy Story Land opens June 30th!,Toy Story Land Opens June 30th!,0.8112833886,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.00482418
+,And her dear great grandchild Jameson.,And her dear Great Grandchild Jameson.,0.788138016,,,"dear,jameson",,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.00754084
+,"In Baghdad, Mike Tobin, Fox News.","In Baghdad, Mike Tobin, FOX News.",0.8150682894,,,baghdad,cocaspok2005.6.001232,cocaspok2005.0022928
+,,Rest in Peace my dear friend.,0.7919750048,,,dear,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.01151183
+,,Chloe swiveled around in her chair..,0.7974600486,,,chloe,torontofantasy.6.341363,torontofantasy.4495876
+,Was Christ born on Christmas Day?,Was Christ Born on Christmas Day?,0.7805883922,,,christ,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.02872021
+,Amazing cute dorm room decor ideas.,Amazing Cute Dorm Room Decor Ideas.,0.7830051084,amazing,,cute,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.01732024
+,Download Texas Holdem poker for free.,Download Texas Holdem Poker for Free.,0.797116531,free,,texas,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.04868213
+,,Using images from 2 Cute Ink!,0.7990415988,,ink,cute,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.01738757
+,,Apartments in Akron during the 1950's.,0.796184906,,,akron,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.02817755
+,,Giveaway closes July 1st at noon!,0.8078092132,,,noon,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.00178337
+1,,Al Qaeda tested SAMs in Afghanistan.,0.8120660796,,,afghanistan,cocaspok2003.6.004568,cocaspok2003.0072657
+1,,"That's at noon Eastern, 9:00 a.m.",0.8033679965,,,noon,cocaspok2000.6.002390,cocaspok2000.0040888
+,,Shaklee is based in San Francisco.,0.796097545,,,francisco,wsj.6.002642,wsj.479067
+,,He was arrested before September 11.,0.7861119414,,,september,cocaspok2001.6.007412,cocaspok2001.0112589
+1,,"Created June 10, 2015, 10:06 p.m.",0.8433394988,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.02810442
+,,Andrea and Kenny want titanium hammers.,0.7929076029,,,titanium,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.03199946
+,,I suggest over at 809 Bourbon.,0.7897854309,,,bourbon,torontofantasy.6.231779,torontofantasy.3091666
+,,My son was outside playing soccer.,0.7863355937,,,son,cornellmov.6.026715,cornellmov.0160875
+,,System ford 07 unlabeled ranger heart.,0.8070286524,,,ford,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.02641510
+,,Dr. Barbara Bascom traveled with us.,0.8001008259,,,"barbara,us",cocaspok1990.6.000402,cocaspok1990.0006484
+,,"Finally, Abby frowned at her husband.",0.7816810346,,,abby,torontomyst.6.161859,torontomyst.2089227
+,,"I'm Jonathan Freed in Taylorville, Illinois.",0.8084713155,,jonathan,illinois,cocaspok2006.6.003616,cocaspok2006.0060198
+1,,"John Martin, ABC News, Chattanooga, Tennessee.",0.8251260965,,martin,tennessee,cocaspok1990.6.002078,cocaspok1990.0035359
+,,There's cute little napkins and steak.,0.8021852319,,,cute,torontofantasy.6.408955,torontofantasy.5355018
+,,The Duke raised his eyebrows questioningly.,0.7819049348,raised,,eyebrows,torontofantasy.6.075920,torontofantasy.1123410
+,,"What do you say, Brian, huh?",0.7984311832,,,brian,cornellmov.6.016550,cornellmov.0094903
+,,I mean look at this sweetie.,0.7885978781,,,sweetie,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.02473182
+,,"Promo runs until June 15, 2018.",0.8333715506,runs,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.04069552
+,,"Keith is calling from Midland, Texas.",0.8001453851,,,texas,cocaspok1996.6.000049,cocaspok1996.0000823
+1,,"September 5, 1946 Berry Lulu A.",0.8281517135,,,september,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.02615536
+,,"The Amish boy saw him, Paul.",0.7842323844,,,amish,cornellmov.6.040795,cornellmov.0251667
+,,My cousin's shaggy eyebrows crept up.,0.7918546008,,,eyebrows,torontofantasy.6.344974,torontofantasy.4536477
+1,,"June 2013 Volume 36, No. 3.",0.8247710831,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.04617211
+,,Gail McBride is new Century's principal.,0.7872455199,,,gail,cocaspok1996.6.006791,cocaspok1996.0084587
+,,Even from his wife and son.,0.7866646384,,,son,torontomyst.6.141544,torontomyst.1834782
+,"Dear Sandeep, where is the question?","Dear Sandeep, Where is the question?",0.7840451541,,,dear,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.02539330
+,,"She's at again, that naughty Madonna.",0.8021603761,,,madonna,cocaspok2012.6.005347,cocaspok2012.066033
+,,"In Germany, a Kleider machen Leute.",0.8286839642,,,germany,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.03689879
+1,,Habitat Harper Ohio Skateboard Deck 8.,0.8004219185,,,ohio,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.04781439
+,"""He didn't come home,"" Diego said.","He didn't come home,"" Diego said.",0.7928057146,,,diego,torontofantasy.6.358579,torontofantasy.4704225
+,Looking for fatty acid distillation plants?,Looking for Fatty Acid Distillation Plants?,0.7832669984,,,fatty,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.02519976
+,,What's so important in San Francisco?,0.779561623,,important,francisco,cornellmov.6.024948,cornellmov.0149302
+,,"I mean, check back at noon.",0.7817877893,,,noon,cocaspok2000.6.007569,cocaspok2000.0119493
+,,"Kendra, Seth, and Dale sat nearby.",0.8018988818,,,"seth,dale",torontofantasy.6.322064,torontofantasy.4222171
+,,Where did that other guy go?,0.7813653996,,,guy,torontomyst.6.019522,torontomyst.275477
+1,,"September 22, 1950 Hunt Mary E.",0.8467570492,,,september,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.04770979
+,,One child died Friday in Denver.,0.7981638962,,,denver,wsj.6.000742,wsj.135979
+,Swine flu strikes cats and ferrets!,Swine Flu Strikes Cats and Ferrets!,0.8196428419,,,flu,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.00794177
+,,"I'm Jen, from The Home Depot.",0.8008607745,,,depot,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.00810475
+,So I'm both Testosterone and Superman.,So I'm Testosterone and Superman both.,0.7838095467,,,superman,cocaspok1997.6.002326,cocaspok1997.0028110
+,,Vermont is really into maple syrup.,0.8078034726,,,maple,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.01222593
+1,,Matt Gormley at CMU and Prof.,0.809682852,,,"matt,prof",,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.02661785
+,,Matt arrived in Waterford on time.,0.7804906929,,,matt,torontoadv.6.016825,torontoadv.297667
+,,Barbara indicated the gleaming silver pots.,0.7824334346,,,barbara,torontofantasy.6.341650,torontofantasy.4499192
+,,"Herbed chevre, pomodoro sauce, basil toast.",0.8489700407,,,basil,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.04832500
+,"San Diego, for Jay Leno - hello.","San Diego, for Jay Leno - Hello.",0.8190332571,,,diego,cocaspok1993.6.007893,cocaspok1993.0103918
+1,,My insurance renews in June. Cheers.,0.8010332115,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.02794843
+,,Chili Palmer showed you my script?,0.7842876961,,,chili,cornellmov.6.001788,cornellmov.0009783
+1,,"City of San Diego, 2015 Cal.",0.8067672226,,,diego,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.00093495
+,,"Next stop is Nevada, January 19th.",0.8095714303,,,nevada,cocaspok2007.6.003257,cocaspok2007.0040158
+,,"Tantalum, Titanium, Hastelloy, Inconel and Monel.",0.8474480479,,,titanium,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.03445225
+,,Meatball joined him at the window.,0.7838949803,,,meatball,torontoadv.6.043193,torontoadv.735534
+,,"Coupon is 5%, payable in yen.",0.8087381766,,,yen,wsj.6.000746,wsj.136739
+,Collection of Ford e350 wiring diagram.,Collection of ford e350 wiring diagram.,0.7822323601,,,ford,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.04793897
+,,I'm making enchilada pasta for dinner.,0.7918538387,,,enchilada,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.03512943
+,,"Nope, Skyla isn't here for Chloe.",0.8006465082,,,chloe,torontofantasy.6.287430,torontofantasy.3745720
+,,The cost doesn't exceed 250 euro.,0.7871635871,,,euro,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.04971748
+,,This guy really was a Neanderthal.,0.7800118797,,,guy,torontomyst.6.006600,torontomyst.94162
+,,Meringue powder is powdered egg whites.,0.8167396719,,,egg,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.01642187
+,,It's already Monday here in Baghdad.,0.7941723093,already,,baghdad,cocaspok2005.6.006268,cocaspok2005.0098452
+,,You working in San Diego now?,0.7849978701,,,diego,cornellmov.6.002210,cornellmov.0012536
+,,Jasmine coloring pages princess free printable.,0.8054185808,free,,jasmine,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.03062233
+,,"And maybe Rio, Salvador and Argentina.",0.8009189356,,,salvador,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.04982926
+,,It's a guy in a cage.,0.7817775154,,,guy,cornellmov.6.009257,cornellmov.0053031
+1,,"B. 30 MAY 1698 Lynn, Mass.",0.8161697159,,,lynn,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.01447243
+,,Mariah Carey's famous honey hue: check.,0.8055936759,,,hue,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.03891623
+,,"Roulette, craps or blackjack, your choice.",0.789952501,,,craps,torontomyst.6.003811,torontomyst.56337
+,,"Ella Blue, and your son, Jett.",0.8090562456,,,son,cocaspok2000.6.005519,cocaspok2000.0092288
+1,,"U.S. 101 San Diego County, California.",0.8236549969,,,diego,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.00710786
+,"Oh please, Ford, I'll do any.","Oh please, Ford, I'll do any .",0.7861575669,,,ford,cornellmov.6.009389,cornellmov.0053749
+,"Reply: Dale Worley: ""RE: external error"".","Reply: Dale Worley: ""RE: external error""",0.7878265146,,,dale,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.03223743
+,,Summer horsemanship day camps in June!,0.8027268716,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.04570537
+1,,"United Nations, N. Y., June 18.",0.8372752765,,,june,brown.6.001087,brown.021181
+,,Karina swept Emily into her arms.,0.7859780541,,,emily,torontofantasy.6.345775,torontofantasy.4545076
+,,"May 31, 2013 June Voting Incentive!",0.8204306171,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.00534294
+,,Top with additional blueberries or blackberries.,0.7905743246,additional,,blueberries,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.01280215
+,,The domme's lips wrinkled in distaste.,0.786810788,,,lips,torontofantasy.6.351296,torontofantasy.4617516
+,,McNeal leveled his stare at Emily.,0.7848975098,,,emily,torontofantasy.6.444028,torontofantasy.5802213
+,,It was on like Donkey Kong.,0.7860879413,,,kong,torontofantasy.6.231241,torontofantasy.3085860
+,,"These mosquitos are -- well, guinea pigs.",0.7974729557,,,guinea,cocaspok2004.6.000600,cocaspok2004.0009053
+,Buy Prevacid Lansoprazole online without prescriptions.,Buy Prevacid Lansoprazole Online Without Prescriptions.,0.8279238868,,,prevacid,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.03971004
+,,"But, what about snake tattoo guy?",0.7956941811,,,guy,torontofantasy.6.175552,torontofantasy.2376919
+,,"Honey, isn't your friend's name Colleen?",0.8105272129,,,colleen,cornellmov.6.010235,cornellmov.0058359
+,,Michele read the maple writing again.,0.7892547506,,,maple,torontomyst.6.022023,torontomyst.303479
+,"Coaster II, the maple syrup ship.",Coaster II the maple syrup ship.,0.801431227,,,maple,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.04523748
+,,Stir in sauce and chili powder.,0.8035896388,,,chili,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.01536697
+,,He's kissing her on the lips.,0.7819913146,,,lips,cornellmov.6.036439,cornellmov.0222878
+,,Spread the blueberries over the crust.,0.781768389,,,blueberries,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.00240921
+,,"Come on, man -- Vietnam ain't Germany.",0.7908410404,,,germany,cornellmov.6.022452,cornellmov.0133109
+,,Greybeard raised his eyebrows at this.,0.7937549739,raised,,eyebrows,torontoadv.6.035336,torontoadv.599537
+,,CNN's Brian Cabell looks into that.,0.7852561158,,,brian,cocaspok2000.6.005171,cocaspok2000.0087935
+1,,"I do nt know, Marquee Guy.",0.7876681289,,,guy,cocaspok2005.6.004778,cocaspok2005.0075425
+,,"Jesus Christ, Pop, let's go home.",0.7899013475,,,christ,cornellmov.6.015873,cornellmov.0090630
+,,"Lieutenant Ilia reporting for duty, sir.",0.7926754128,,,lieutenant,cornellmov.6.013642,cornellmov.0077435
+,,The generals surrendered after Baghdad fell.,0.7795635708,,,baghdad,cocaspok2003.6.000074,cocaspok2003.0002157
+,,I'm Matt Lauer in New York.,0.8089036741,,,matt,cocaspok2008.6.004760,cocaspok2008.0058936
+,,Small brains make your balls itch?,0.7872016256,,,balls,cornellmov.6.002914,cornellmov.0016302
+,,"Seth Doane, thank you so much.",0.7805722859,,,seth,cocaspok2010.6.011053,cocaspok2010.0143174
+,,Xenoblade Chronicles 2 on Nintendo Switch!,0.792176221,,,nintendo,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.03421638
+,,"Oh dear Lord, it was Cash.",0.7905305048,,,dear,torontofantasy.6.295020,torontofantasy.3855117
+1,,"Developer Guide - June,. About this manual.",0.7815012587,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.04021108
+,,Paul's College Foundation in Hong Kong.,0.8120993061,,,kong,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.02756675
+,"Shh, baby, please do not cry.","Shh, baby, please do no' cry.",0.812164533,,,shh,torontofantasy.6.255667,torontofantasy.3383078
+,,This guy got me mad now.,0.7825377247,,,guy,torontomyst.6.043435,torontomyst.614987
+,,Are videos downloadable from video egg?,0.8107594022,,,egg,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.00435315
+,,Texas went solidly for the Reverend.,0.7852889994,,,texas,torontofantasy.6.088559,torontofantasy.1312641
+,,The place where Superman comes from?,0.7851678101,,,superman,cornellmov.6.038370,cornellmov.0235326
+,"Valuation question: Harper Rookie ""Hit Balls"".","Valuation Question: Harper Rookie ""Hit Balls""",0.7860391146,,,balls,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.03197546
+,,In China Avalokiteshvara becomes Kuan Yin.,0.804226622,,,yin,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.03639013
+,,It was sexy as all hell.,0.7807756815,,,sexy,torontomyst.6.111309,torontomyst.1472319
+,,Miss Matilda for the new challenge!,0.7853632721,,,matilda,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.02602710
+,,Add the olive oil and garlic.,0.7917995562,,,olive,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.02622507
+,,Elvis looked at her in bemusement..,0.7898651153,,,elvis,torontofantasy.6.013918,torontofantasy.201602
+,,Like... a cute succubus for example.,0.7880905954,,,cute,torontofantasy.6.455755,torontofantasy.5919837
+,,SAGE Mobile 8.0 is available now.,0.7869019322,,,sage,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.04022642
+,,Val waved goodbye to his friend.,0.7800670777,waved,,goodbye,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.01460549
+,,Dionysius in the 1913 Catholic Encyclopedia.,0.8341525686,,,encyclopedia,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.04790457
+,,He did it back in Illinois.,0.79283752,,,illinois,cocaspok2010.6.008823,cocaspok2010.0115208
+1,,"Wed., June 1, 2011, 8:01 a.m.",0.8585633366,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.02437501
+,,"In June, Bill moved back home.",0.8061273677,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.04104984
+,,Seth Doane now reports from Kabul.,0.8149691136,,,seth,cocaspok2011.6.005920,cocaspok2011.0074448
+,,My nephew Matt Klam took me.,0.7949343846,,,matt,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.00457327
+,,"Aw, c'mon -- anybody can get hungry.",0.7967699333,,,aw,cornellmov.6.013913,cornellmov.0079111
+,,Keith Jones lost his son Gordon.,0.8010103444,,gordon,son,cocaspok2010.6.004448,cocaspok2010.0057150
+,,"The Nite Owl was solved, Lieutenant.",0.7916513088,,,lieutenant,cornellmov.6.008802,cornellmov.0050470
+,,"But don't think it's over, Abby.",0.7899397524,,,abby,torontomyst.6.162978,torontomyst.2102849
+,,"Beast restaurant, london havwoods wood flooring.",0.7841075635,,,london,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.00037230
+,,The guy spelled sex and danger.,0.7893971826,,,guy,torontofantasy.6.442605,torontofantasy.5790862
+1,,Atlanta Olympic Committee Spending | | IN PCT.,0.8005189324,,,atlanta,wsj.6.001755,wsj.317886
+,,Doc and Meatball yawned in chorus.,0.8192839804,,,meatball,torontoadv.6.043167,torontoadv.735224
+,,The young girl was so cute.,0.7798480131,,,cute,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.01967720
+,,The whole enchilada in one shot.,0.7835005734,,,enchilada,cornellmov.6.039924,cornellmov.0245796
+,Bobby Peru probably killed the most.,Bobby Peru prob'ly killed the most.,0.7835503883,,,peru,cornellmov.6.025802,cornellmov.0154663
+,,Then Goddard looked apologetically at Emily.,0.7845989855,,,emily,torontomyst.6.081476,torontomyst.1103354
+,,Matt looked at the blue vase.,0.7817428785,,,matt,torontoadv.6.023903,torontoadv.422854
+,My pineapple coconut martini was delicious!!!,My Pineapple Coconut Martini was DELICIOUS!!!,0.8010599516,,,pineapple,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.01806417
+,,"Well, obviously, in Argentina, Diego Miradona.",0.7936249912,,,diego,cocaspok1990.6.006435,cocaspok1990.0113767
+,,"Dear Governor Bevin, I'm Audra Baker.",0.8113696545,,,dear,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.01012992
+,,"You just go like this, dear.",0.7819066439,,,dear,cocaspok2005.6.003077,cocaspok2005.0051080
+,,"Colleen: My gosh, a GCU sweatshirt!",0.8117489092,,,colleen,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.03609987
+,,"Jesus Christ, where'd that come from?",0.7818337785,,,christ,cornellmov.6.023594,cornellmov.0140450
+,,Seth leaned in closer to Jay.,0.7808614756,,,seth,torontomyst.6.014313,torontomyst.207327
+,,"Pearlson said, staring up at Matt.",0.7849614835,,staring,matt,torontomyst.6.124501,torontomyst.1633487
+,,The contest ends on September 14th!,0.7912985233,,,september,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.00128708
+,,"Jung, do you know Diego Delgado?",0.7967735611,,,diego,cornellmov.6.027699,cornellmov.0166952
+,,Kate and Jo said in unison.,0.7981115766,,,jo,torontomyst.6.014153,torontomyst.205248
+,Macbook Pro repair in Niagara region.,Macbook Pro Repair in Niagara region.,0.7951062568,,,niagara,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.01416615
+,,"Anyway, this guy didn't look nice.",0.7896434587,,,guy,torontoadv.6.040372,torontoadv.688289
+,,"Don't live near Lake Villa, Illinois?",0.8028568932,,,illinois,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.02983475
+,,"He was born near Harrisburg, Pennsylvania.",0.8081392643,,,pennsylvania,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.03499121
+,,Jocelyn fingers and nods at Chloe.,0.7979122219,,,chloe,torontomyst.6.044918,torontomyst.632546
+,,Remember your first Easter Egg hunt?,0.7846881748,,,egg,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.04753546
+,,"September 26, 2016 in Market Commentary.",0.8398387752,,,september,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.01128939
+,,Reboot into your fresh pi install.,0.7811757266,,,pi,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.01979276
+,,A mist rose from his lips.,0.786947008,,,lips,torontofantasy.6.069214,torontofantasy.1016291
+,"Hush, Claudia, hush now my dear.","Hush, Claudia, hush now my dear .",0.8207113657,,claudia,dear,cornellmov.6.010367,cornellmov.0059033
+1,,Posted September 25 by Sarah J.,0.8447883512,,,september,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.02123294
+,,And below the Cuckoo Flower watercolor.,0.7960209161,,,cuckoo,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.02900126
+,,"Dreamed in Italy, Made in D.C.",0.8062549254,,,italy,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.03243556
+,,Our patio overlooks the Yellowstone river.,0.7799478424,,,yellowstone,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.04318372
+,Tokyo looks away from the reality.,"""Tokyo looks away from the reality.""",0.7797982151,,,tokyo,wsj.6.000211,wsj.038825
+1,,"April 11, 1825, St Marylebone, London.",0.8551516384,,,london,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.04958638
+,,Hemangeol will be available June 2014.,0.7949977211,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.00916530
+,,Was he bruised in Santa Barbara?,0.78282552,,,barbara,cocaspok2003.6.004270,cocaspok2003.0067987
+,"Gator category: microphone, wireless system cases.","Gator Category: Microphone, Wireless System Cases.",0.7870829335,,,gator,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.03959702
+1,,"Rob Gifford, NPR News, Hong Kong.",0.8136627416,,,kong,cocaspok2000.6.000864,cocaspok2000.0016609
+,,Black nail polish and guy liner.,0.7931287247,,,guy,cocaspok2009.6.005455,cocaspok2009.0069713
+,,Mr. Bundy growled from the cockpit.,0.8039337379,,,bundy,torontomyst.6.048795,torontomyst.683230
+,,Guy cracks walnuts with his asshole.,0.7940261325,,,guy,cornellmov.6.010927,cornellmov.0061931
+,,I am located in Winnemucca Nevada.,0.8129053338,,,nevada,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.00904435
+,,That's especially true at the IMF.,0.7799106974,,,TRUE,wsj.6.002103,wsj.381096
+,,Red dyed mirror in curly maple.,0.8152656729,,,maple,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.00640462
+,,"For instance, Philadelphia roll right here.",0.7819503225,instance,,philadelphia,cocaspok2000.6.005825,cocaspok2000.0095477
+,Double glazing London in Estrela Lisboa.,Double glazing london in estrela lisboa.,0.8248678782,,,london,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.01647518
+,,"Transok is based in Tulsa, Okla.",0.7897627651,,,tulsa,wsj.6.000930,wsj.171113
+,Seeking a nanny in Manhattan NY?,Seeking a Nanny in Manhattan NY?,0.8020684599,,,manhattan,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.03974638
+,There's onion soup and canned asparagus.,There's onion soup and canned asparagus .,0.8184206972,,soup,asparagus,cornellmov.6.026589,cornellmov.0159869
+,,Still seeing that sexy French gal?,0.788578412,still,,sexy,cornellmov.6.040506,cornellmov.0249673
+,,La Dordogne River near Cadouin - France.,0.8272719637,,,france,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.02148942
+,,"I am a nice guy, Daniel.",0.7821185169,,daniel,guy,cornellmov.6.029043,cornellmov.0175607
+1,,"John Blackstone, CBS News, San Francisco.",0.8277880134,,,francisco,cocaspok2009.6.005515,cocaspok2009.0070473
+,,He looked at Sage and Nora.,0.7821802199,,,sage,torontomyst.6.049925,torontomyst.700486
+,,"As Lieutenant Spock would say, fascinating.",0.7926633228,fascinating,,lieutenant,torontomyst.6.006083,torontomyst.83812
+,,But this bastard son of his...,0.7808256262,,,son,torontofantasy.6.466864,torontofantasy.6067965
+1,,On 9 December 2015 Prof. dr.,0.8410078758,,,prof,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.04526668
+1,,"This phone costs 12, 980,000 Yen.",0.7932925456,,,yen,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.01452311
+,,A scream spilled from Kylie's lips.,0.785296429,,,lips,torontofantasy.6.390295,torontofantasy.5112037
+1,,NINTENDO 64Show posts in this category.,0.8069166696,,,nintendo,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.02258514
+,,Amish Made Mini carts and supplies!,0.7961942358,,,amish,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.03241289
+,,"This is Herr Mozart, my dear.",0.8077306287,,,dear,cornellmov.6.016093,cornellmov.0092161
+,Yen late Friday in New York.,yen late Friday in New York.,0.809077886,late,,yen,wsj.6.000686,wsj.126508
+,,Found a great cute dog video?,0.7907293232,,,cute,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.04516832
+,,"Golden Gate in San Francisco, California.",0.8200175248,,,francisco,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.04525130
+,,"AW: Written things, OK, like testimonials?",0.7890057386,,,aw,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.03261155
+1,,Cyprus Minerals World Headquarters. design build.,0.7926189421,,headquarters,cyprus,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.00717578
+,They're found in Papua New Guinea.,Theyre found in Papua New Guinea.,0.8076413429,,,guinea,cocaspok2009.6.005795,cocaspok2009.0073983
+,,Her unborn son died as well.,0.8033115528,,,son,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.00150657
+,,Highlights from my trip to Tokyo!,0.785622194,,,tokyo,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.04493115
+,,Where is Commander Jameson shooting from?,0.7918889841,,,jameson,torontofantasy.6.475163,torontofantasy.6176589
+,,Lets go to Jackie in Ohio.,0.7923096627,,,ohio,cocaspok2006.6.004940,cocaspok2006.0079563
+1,,The Wiktor Television Academy awarded Prof.,0.7934564573,,,prof,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.02436453
+,,"I had really fat, chubby cheeks.",0.7866408818,,,chubby,cocaspok2003.6.007670,cocaspok2003.0111685
+,Texas to secede from the Union?,Texas to Secede from the Union?,0.7998432595,,,texas,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.03286879
+,,This guy loves my back yard.,0.7932197725,,,guy,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.04754887
+1,,GranTurismo guy and TheCracker like this.,0.8008573544,,,guy,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.03547582
+,,HTML convert time to 0.264 sec.,0.7838295462,,,sec,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.04830478
+,,"Let's go next to Tulsa, Oklahoma.",0.7893551627,,,tulsa,cocaspok1999.6.011075,cocaspok1999.0147909
+,,"Do you believe it's true, Sebastian?",0.7809959168,,,TRUE,cornellmov.6.005591,cornellmov.0031824
+1,,Ohio State senior point guard C.J.,0.7818100461,,,ohio,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.00000023
+,,Do men really care about lingerie?,0.7901712939,,,lingerie,cocaspok2010.6.001298,cocaspok2010.0016854
+,,Barbara Bush got rid of Sununu.,0.7823620621,,,barbara,cocaspok1993.6.001197,cocaspok1993.0017689
+,,"Alexander Eidenier, Alvordton, Ohio, speed, 130.",0.8015883828,,,ohio,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.03996174
+,,"I'm still in the chair, Lieutenant.",0.7875185377,still,,lieutenant,cornellmov.6.005300,cornellmov.0029991
+,,"Add salt and chili powder, stirring.",0.7882892878,,,chili,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.04311397
+,,Scarlet wrenched her lips from his.,0.7867699709,,,lips,torontofantasy.6.272556,torontofantasy.3576110
+1,,"London: Pluto Books, 2012, chap. 3.",0.8229936531,,,"london,pluto",,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.02638033
+,,The guy sat in my office!,0.7894392702,,,guy,cornellmov.6.035377,cornellmov.0215873
+1,,"Kirk Siegler, NPR News, Cairo, Ill.",0.8042983123,,,cairo,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.02506072
+1,,"Montgomery, why do they call you""Flea""?",0.7820245827,,,montgomery,cornellmov.6.001681,cornellmov.0009204
+,,Seth wouldn't stop saying her name.,0.7813659588,,,seth,torontofantasy.6.331289,torontofantasy.4334305
+,,"You know, the green cardigan guy.",0.7821668294,,,guy,cornellmov.6.001875,cornellmov.0010361
+,,"Allen Chernoff live from Biloxi, Mississippi.",0.8305655673,,,mississippi,cocaspok2005.6.004082,cocaspok2005.0065477
+,,Blood oozes up between his lips.,0.7856654958,,,lips,torontofantasy.6.330667,torontofantasy.4320774
+,,Jesse drew away leaving Mily behind.,0.7812457361,,,jesse,torontofantasy.6.032457,torontofantasy.472464
+,,Lucas's thick black eyebrows knitted together.,0.802057549,,,eyebrows,torontofantasy.6.345740,torontofantasy.4544753
+,,It's like that true love thing.,0.7840694582,,,TRUE,cocaspok1997.6.001628,cocaspok1997.0019579
+,,My son hardly knew Mrs. Gillis.,0.7933307161,,,son,torontomyst.6.001840,torontomyst.26768
+,,I'm a detective in Hong Kong.,0.7984922475,,,kong,cornellmov.6.036304,cornellmov.0222117
+,,The chipotle chile was too subdued.,0.7809914262,,,chile,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.02505931
+,,Okra contains a lot of oxalates.,0.7845187223,,,okra,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.03602573
+,,"Another son, Hugo, was Laila's grandfather.",0.7944255998,,,son,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.04890155
+,,Sheila MacVicar in London this morning.,0.8000511768,,,london,cocaspok2009.6.008118,cocaspok2009.0104584
+,,But I do love Emily Dickinson.,0.7874947194,,,emily,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.03589139
+,,"Aw, Tommy, c'mon, it ain't that.",0.8135800003,,,aw,cornellmov.6.004548,cornellmov.0025669
+1,,"John Gates, 15 June 1832, 65years.",0.8388756078,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.01802125
+,She's played attractively by Lynn Redgrave.,(She's played attractively by Lynn Redgrave.),0.7868488444,played,,lynn,wsj.6.002635,wsj.477725
+,,"This guy, this guy right here.",0.7859224179,,,"guy,guy",,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.02019769
+,,Brian Friel; edited by Peter Fallon.,0.8197042395,,,brian,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.02011062
+,Stamping tink: September pencil class - flowers!,Stamping Tink: September Pencil Class - Flowers!,0.8091588913,,,september,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.01636399
+,,I never called Dale an idiot.,0.7855398682,,,"dale,an",,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.01777332
+,,Edward Turner is born in London.,0.8063669992,,,london,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.03492484
+,,"RSVP date of Friday, May 11th!",0.7972590212,,date,rsvp,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.02865270
+,,"Ross Perot, Texas billionaire, corporate gadfly.",0.8355063334,,corporate,"texas,billionaire",cocaspok1991.6.003481,cocaspok1991.0051783
+,,Stories like that of Colleen Negrin.,0.7843015604,,,colleen,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.03218614
+,,"Lieutenant Saavik, you are in charge.",0.7804810981,,,lieutenant,cornellmov.6.024367,cornellmov.0145552
+,,Shampoo for little abundant natural hair.,0.7821962779,,hair,shampoo,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.02594873
+,,My son would love this game!,0.7858055463,,,son,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.03325535
+,,That's a really cute blue jay.,0.7934114253,,,cute,cocaspok1998.6.009025,cocaspok1998.0118644
+,,Whoa super long train track Olive.,0.8039154185,,,olive,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.01303923
+,,"This, beautiful, beautiful Mississippi brownie thing.",0.7904549151,,,mississippi,cocaspok2000.6.007643,cocaspok2000.0120340
+,,Apparently even Madonna owns an Andraab.,0.786177687,,,"madonna,an",,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.03558016
+,,Fourteen movie theaters under one roof.,0.7850698627,,,fourteen,cornellmov.6.016509,cornellmov.0094663
+,,Tessie's in mothballs for the winter.,0.7913630884,,,mothballs,torontofantasy.6.093837,torontofantasy.1372888
+,,"Is Bruja a Portuguese name, though?",0.7876214227,,,portuguese,torontofantasy.6.478392,torontofantasy.6221608
+,,This guy was from the Underworld.,0.7926628636,,,guy,torontofantasy.6.455759,torontofantasy.5919900
+,,I think he's a sweet guy.,0.7799803641,,,guy,cornellmov.6.032143,cornellmov.0195412
+,,The witch licked her black lips.,0.7990650476,,,lips,torontofantasy.6.306704,torontofantasy.4021107
+,,He's a guy named Tom Phillips.,0.7995907043,,,guy,cocaspok1996.6.005095,cocaspok1996.0063873
+,,"Florence, Italy - for Tony Curtis - hello.",0.8172667334,,,italy,cocaspok1991.6.002720,cocaspok1991.0042823
+,,"Tubs, cartons, soap pumps, shampoo bottles.",0.8155625707,,,shampoo,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.02130905
+,,"We scared the rascal off, son.",0.781405027,,,son,cornellmov.6.035976,cornellmov.0219698
+1,,"Birthday: June 18, 1966 Salinas P.R.",0.8539963879,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.00210665
+,,"Free ads Trieste, Italy without registration.",0.8021950699,free,,italy,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.02890550
+,,Baby broccoli grows on old plants.,0.8064094498,,,broccoli,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.03224325
+,,Second in the Genevieve Lenard Series.,0.7851860738,,,genevieve,torontomyst.6.036199,torontomyst.512255
+,,That is next in rap sheet.,0.7864578113,,,rap,cocaspok2006.6.002803,cocaspok2006.0047824
+,,"Wow Namratha, what a cute cake.",0.8032459846,,,cute,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.02072340
+,,Guy Perkins and his amazing Lemmings.,0.7872398872,amazing,,guy,cornellmov.6.034813,cornellmov.0212437
+,,Seth hefted a coarse brown sack.,0.7888387029,,,seth,torontofantasy.6.320430,torontofantasy.4204869
+,,That's cuckoo; it's nuts; it's broke.,0.8072434892,,,cuckoo,cocaspok1991.6.004017,cocaspok1991.0061472
+,,I'll send Mendigo to fetch Dale.,0.7806474677,,,dale,torontofantasy.6.320641,torontofantasy.4207336
+,,Then place egg salad on top.,0.7833075534,,,egg,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.03654109
+,,My son is 16 years old.,0.8092302659,,,son,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.02380073
+,,And we don't live in Manhattan.,0.787405651,,,manhattan,cornellmov.6.037340,cornellmov.0228714
+,,"I'm Forrest Sawyer in Amman, Jordan.",0.8111721158,,jordan,sawyer,cocaspok1990.6.006616,cocaspok1990.0117698
+,,"Dear Child: No, I do not.",0.7799114644,,,dear,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.03661546
+,,Courtesy of Philadelphia Photo Arts Center.,0.7899611041,,,philadelphia,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.02682970
+,,"God bless Alaska, God bless America.",0.8030969628,,,alaska,cocaspok2009.6.006282,cocaspok2009.0079853
+,,Jesse James never yelled at folk...,0.7960047954,,,jesse,cornellmov.6.016274,cornellmov.0093199
+,,Watch this little forklift training video.,0.7884038812,,,forklift,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.00205792
+,,Raghav Mathur At London Mela 2015.,0.829701793,,,london,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.02067329
+,,We had tilapia and broccoli tonight!,0.7826591946,,,broccoli,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.03804440
+,,Ari was alone with the Lieutenant.,0.7858665311,,,lieutenant,torontofantasy.6.145869,torontofantasy.1980785
+,,"Goddammit, where are you from, Mars?",0.8045714324,,,mars,cornellmov.6.007605,cornellmov.0043407
+,,Pouring Barbra Streisand tea in London.,0.8141645983,,,london,cocaspok2009.6.008215,cocaspok2009.0105856
+,"And from Quitman, Texas, ""It's funny.""","And from Quitman, Texas, "" It's funny.",0.8140840958,,,texas,cocaspok2003.6.003304,cocaspok2003.0056512
+,,"Johnson, Fats Waller and Duke Ellington.",0.8146370329,,,fats,cocaspok2001.6.005886,cocaspok2001.0091779
+,,But Jasmine and Sheridan didn't smoke.,0.7929264869,,,jasmine,torontomyst.6.149679,torontomyst.1927524
+1,,I need some female vagina tonight.,0.7918902475,,,vagina,cornellmov.6.020708,cornellmov.0121529
+,,"By Mallory Craig, Director of Clock.",0.7800679769,,,mallory,torontomyst.6.105391,torontomyst.1395587
+,,Free worksheets visual art vocabulary worksheets.,0.7885408678,free,,vocabulary,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.00062809
+1,,"Montgomery III, one brother, Jessie Lauderdale.",0.8046231184,,,montgomery,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.00570894
+,"Treurs and Verhoefs say goodbye, California!","Treurs and Verhoefs Say Goodbye, California!",0.804986177,,,goodbye,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.04904460
+,,NAS: and Christ Jesus our Savior.,0.7957358927,,,christ,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.02195607
+,,The Alumni Fund Report in September.,0.8032259468,,,september,brown.6.000600,brown.010416
+,,"Written by Alaska Expert, Judy Appel.",0.7995529861,,,alaska,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.04916824
+1,,"Year certified: 2011. Location: Denver, CO.",0.8240480464,,,denver,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.02262418
+,,May 4th: Left Folkestone for France.,0.8001604479,,left,france,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.01520829
+,,"Redheaded guy from the house, Tadeo?",0.8095181746,,,guy,torontomyst.6.175252,torontomyst.2228018
+1,,"Working paper series, 8904. Manila: PIDS.",0.7915948616,,,manila,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.02291885
+,,Lizzy sat next to her son..,0.7914717368,,,son,torontofantasy.6.429451,torontofantasy.5664692
+,,"Grand draw on September 4th, 2019.",0.8092805842,,,september,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.02170441
+,Cape wind white brand logo font?,Cape Wind White Brand Logo Font?,0.7860266407,,,font,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.03227643
+,,"Ah, good evening, my dear Duroc.",0.7994496357,,,dear,cornellmov.6.022146,cornellmov.0130870
+1,,Currency information from Yahoo! 7 Finance.,0.8025340757,,,yahoo,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.01474412
+,,"That's why you're in trouble, guy.",0.7833894427,,,guy,torontoadv.6.050160,torontoadv.847775
+,,Let's go to Jessica in Denver.,0.7964900034,,,denver,cocaspok2007.6.005194,cocaspok2007.0070008
+,,"Breaking news tonight, live, Philadelphia suburbs.",0.7915558583,,,philadelphia,cocaspok2011.6.001812,cocaspok2011.0022168
+,,"We're not in the showroom, Dear.",0.7835698799,,,dear,cornellmov.6.001333,cornellmov.0007361
+,,Barbara was bleeding and in pain.,0.7801885528,,,barbara,cocaspok1999.6.005001,cocaspok1999.0068036
+,,Naomi laughed and hugged her dog.,0.7825828957,,,naomi,torontofantasy.6.192438,torontofantasy.2612352
+,,Bourbon Street ain't ever this dark.,0.7808627277,,,bourbon,torontofantasy.6.231150,torontofantasy.3085023
+,,Probably the last true Southern socialite.,0.7801598713,last,,TRUE,torontofantasy.6.342014,torontofantasy.4503578
+,,"Oh, yeah... yeah... it's a hellhole.",0.8230921862,,,hellhole,cornellmov.6.003738,cornellmov.0020992
+,,It's a love song about Peru.,0.7949824072,,,peru,cocaspok1996.6.004526,cocaspok1996.0055989
+,,Is this guy an illegal alien?,0.781244647,,,"guy,an",,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.03984040
+,,Don't you love my sexy body?!,0.7882943579,,,sexy,cornellmov.6.006488,cornellmov.0037126
+,,This is like Edgar Allen Poe.,0.8014858111,,,poe,wsj.6.000649,wsj.121006
+,,San Diego Hysterical Society home page.,0.7982866378,,,diego,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.02983551
+,,"Olive oil, kids love olive oil.",0.8157963301,,,"olive,olive",cocaspok2008.6.001191,cocaspok2008.0015696
+,,The drug made Alcander's lips tingle.,0.7830278178,,,lips,torontofantasy.6.019396,torontofantasy.283023
+,,Jesse Dittley kicked in the door.,0.7868350131,,,jesse,torontofantasy.6.369831,torontofantasy.4838344
+,"Registration closes Friday 17th June, 2016.",Registration closes Friday 17th June. 2016.,0.8297699789,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.01638126
+1,,"Street, JStreet, Brian Strong, GStrubell, M.",0.7880521631,strong,,brian,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.00118850
+,,Oliver married a woman from Texas.,0.8061291094,,oliver,texas,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.02628932
+,,Jesse Fisher is a master craftsman.,0.7873758487,,,jesse,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.03030550
+,,I didn't care about AIDS anywhere.,0.7905884496,,,aids,cocaspok2007.6.011111,cocaspok2007.0139089
+,,Let's say you're traveling to Tokyo.,0.7815970573,,,tokyo,cocaspok2003.6.004815,cocaspok2003.0076989
+,,Kendra saw no sign of Seth.,0.7830246919,sign,,seth,torontofantasy.6.321449,torontofantasy.4216347
+,,"Original Air Date: September 20, 2008.",0.8370365567,,date,september,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.04112921
+,,And some hotshot SAC from Nevada.,0.8057408681,,hotshot,nevada,torontomyst.6.091979,torontomyst.1231082
+,,Depot block renovation legs silver butcher.,0.7899026794,,,depot,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.00701260
+,,"Wife of Edward, the king's son?",0.7868562799,,,son,cornellmov.6.001030,cornellmov.0005675
+1,,"Laura Sydell, NPR News, San Francisco.",0.8143214954,,,francisco,cocaspok2003.6.000107,cocaspok2003.0003168
+1,,"Mark Strassmann, CBS News, Philadelphia Mississippi.",0.8150778956,,mark,"philadelphia,mississippi",cocaspok2005.6.006091,cocaspok2005.0095767
+1,,"Seth Doane, CBS News, New York.",0.8260598549,,,seth,cocaspok2010.6.007854,cocaspok2010.0102470
+,,Want more farm fresh egg recipes?,0.7853114705,,,egg,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.02740321
+,,Start booking Simian Mobile Disco now!,0.7917187239,,,disco,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.00819095
+,,A real Hong Kong night club.,0.795030345,real,,kong,cornellmov.6.036319,cornellmov.0222215
+1,,"In the early 1970s, when Prof.",0.7928942273,,,prof,wsj.6.002801,wsj.509118
+,,"Durr is based near Stuttgart, Germany.",0.8024913968,,,germany,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.00845289
+1,,"It says, "" Read his hips. "" Cute.",0.7901966331,,,cute,cocaspok1992.6.002390,cocaspok1992.0031925
+,,I'm sorry Naomi couldn't make it.,0.7836253279,,,naomi,cornellmov.6.017843,cornellmov.0103312
+1,,Additional information: Son of Mrs. E.,0.7910745532,additional,,son,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.01271336
+,"At the ""Guardian"" newspaper in London.","At the "" Guardian "" newspaper in London.",0.792271001,,,london,cocaspok2006.6.008912,cocaspok2006.0136636
+,,"Lets build a chili dog, Harry.",0.7849585091,,,chili,cocaspok2010.6.004404,cocaspok2010.0056626
+,,"I mean, I live in Texas.",0.7904568687,,,texas,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.02431119
+,,He's a San Francisco private eye.,0.7918268405,,,francisco,cornellmov.6.035586,cornellmov.0217101
+,,Alaska banned wolf hunting by airplanes.,0.7962211786,,,alaska,wsj.6.000593,wsj.109203
+1,,"B. 14 SEP 1687 Lynn, Mass.",0.8285204643,,,lynn,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.04704210
+,,White Irishmen didn't court Portuguese women.,0.8084974014,,,portuguese,torontofantasy.6.228268,torontofantasy.3047621
+,,"Ah, everybody screws up some, Brian.",0.7805894479,,,brian,cornellmov.6.016547,cornellmov.0094874
+,,I think I know my son.,0.7818392686,,,son,cornellmov.6.004622,cornellmov.0026045
+,,Abby stiffened at his sharp tone.,0.7807371412,sharp,,abby,torontofantasy.6.304279,torontofantasy.3984688
+,,The Challenge starts on June 6th!,0.7821831607,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.00586998
+,,"Such cruel, cruel words, Andrus dear.",0.7796737763,such,,dear,torontofantasy.6.282039,torontofantasy.3675634
+,,That's cellular telenetworking in a nutshell.,0.7914599026,,,cellular,wsj.6.000845,wsj.154597
+,,"Barbara Church, and a silver mine.",0.7808804451,,church,barbara,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.00736747
+,,I only trust Marie France Bodyline.,0.7906502718,,,france,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.00795381
+,,"TS: Yes, I think that's true.",0.7910715819,,,TRUE,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.00767323
+,,"New Europe, new NATO, new Russia.",0.81712758,,,nato,cocaspok1994.6.008207,cocaspok1994.0115427
+,,"Boy, sweetie, this is weird, okay.",0.7995204833,,,sweetie,cornellmov.6.006121,cornellmov.0034751
+,,Kaku Highballs are only 300 yen!,0.7933411636,,,yen,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.00312612
+,,They got great chili in here.,0.7822694916,,,chili,torontoadv.6.059626,torontoadv.990258
+,,"Don't go reading my lips, man.",0.7841210548,,,lips,cornellmov.6.021793,cornellmov.0128453
+1,,"Brian Rooney, ABC News, San Francisco.",0.8217815899,,,"brian,francisco",cocaspok1991.6.001326,cocaspok1991.0022545
+,,Today I was a lima bean.,0.7815702543,,,lima,cocaspok2003.6.001616,cocaspok2003.0030169
+,,"Seth looked around, then at Kele.",0.7962117416,,,seth,torontomyst.6.051037,torontomyst.716208
+1,,Exclusiva en farmacia cialis overdose symptoms.,0.8572354236,,,cialis,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.00801041
+1,,"Hin Kong beach, Koh Phangan, Thailand.",0.821676997,,,kong,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.01737962
+,,Sage yelled from the other side.,0.7866507086,,,sage,torontofantasy.6.114006,torontofantasy.1630592
+,,Beat in egg and vanilla extract.,0.7964552571,,,egg,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.02558893
+,,"I'll say goodbye to you, Tita.",0.7949077273,,,goodbye,cornellmov.6.009308,cornellmov.0053288
+,,Recommended: Dogs on a Pretzel Bun.,0.7911926875,,,pretzel,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.02133990
+,,The man who owns the enchilada.,0.7892356802,,,enchilada,torontofantasy.6.217992,torontofantasy.2933742
+1,,Albuquerque Isotopes - Reno Aces 4:2 19.04.,0.8347109154,,,albuquerque,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.04901244
+,,"Why did Guy beat you, Jack?",0.7889759008,,,guy,cornellmov.6.002753,cornellmov.0015596
+1,,London; New York: Thames and Hudson.,0.7967882619,,,london,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.03575621
+1,,"Linda Pattillo, ABC News, Arlington, Texas.",0.8273989011,,,texas,cocaspok1991.6.001524,cocaspok1991.0027050
+,,"Christ Ministry Center, 3295 Meade Ave.",0.8073535623,,,christ,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.01480646
+1,,"London; New York, NY: Greenhill; Skyhorse.",0.8181855633,,,london,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.02331079
+,,Chloe wrapped her arms around Connor.,0.7839278261,,,chloe,torontofantasy.6.437847,torontofantasy.5749678
+,,"The ogre lived in Ogreville, Ogreland.",0.8022137055,,,ogre,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.00401810
+,Does olive oil work for tanning?,Does Olive Oil Work for Tanning?,0.7884892133,,,olive,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.03701100
+,,Why charter a yacht in Alaska?,0.7846318756,,,alaska,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.02018937
+,September is childhood cancer awareness month.,September is Childhood Cancer Awareness Month.,0.793582424,,,september,cocaspok2010.6.009206,cocaspok2010.0119469
+,,Dress the asparagus tips and reserve.,0.7879365721,,,asparagus,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.04135608
+,,Has 120db True WDR as well.,0.7860185481,,,TRUE,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.02060324
+,,They didn't do anything in Rwanda.,0.7953726796,,,rwanda,cocaspok2005.6.002648,cocaspok2005.0044907
+1,,J Educ Eval Health Prof. 2017;14:29.,0.8129459264,,,prof,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.01826774
+,,Christ loves and died for ALL.,0.7796401297,,,christ,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.01272388
+,,His name quivers from my lips.,0.786796056,,,lips,torontofantasy.6.289233,torontofantasy.3771995
+,,Rap is the latest musical fad.,0.7875129882,,,rap,cocaspok1991.6.006402,cocaspok1991.0110885
+,,"Yang is muscle, Yin is fascia.",0.7990746172,,,yin,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.00310113
+,"Painting: Swampscott to Lynn, MA Seawall.","PAINTING: Swampscott to Lynn, MA Seawall.",0.7948180491,,,lynn,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.02634260
+,,"He's very handsome, yes, but, sweetie...",0.7865355711,,,sweetie,torontofantasy.6.178717,torontofantasy.2434339
+,,There are those Tennessee Titans cheerleaders.,0.7912363442,,,tennessee,cocaspok2004.6.007877,cocaspok2004.0116915
+,,We'll go next to San Diego.,0.7938123816,,,diego,cocaspok1998.6.010411,cocaspok1998.0141242
+,,Seth Lucio picked up the win.,0.7838897428,,,seth,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.04147989
+,,"This is Doc from York, Pennsylvania.",0.8136922457,,,pennsylvania,cocaspok1993.6.005077,cocaspok1993.0063342
+,,"To Iran, Bosnia, Athens, Istanbul, salute!",0.8099091215,,,istanbul,torontofantasy.6.085073,torontofantasy.1260448
+,,"Major Strasser, my aide, Lieutenant Casselle.",0.7994790971,,,lieutenant,cornellmov.6.001085,cornellmov.0006005
+,"Ike Clanton, Old Man's eldest son.","Ike Clanton, Old Man's eldest Son.",0.833660948,,,son,cornellmov.6.039603,cornellmov.0243618
+1,,"VH 101, No. 4, Paris, France.",0.8178925757,,,france,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.03771120
+,,"Umeo in San Francisco, my hometown.",0.8121300042,,,francisco,cocaspok2000.6.000399,cocaspok2000.0009232
+,,Embassy in Italy and the U.S.,0.7965103526,,,italy,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.00041547
+,,They bicycled through Austria last summer.,0.7914832217,last,,austria,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.01650505
+,,Tiny soup champagne volunteer personalized denver.,0.7959722861,,soup,denver,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.03123812
+,,"Barak shrugged, hefting a boar spear.",0.7954755636,,,boar,torontofantasy.6.419251,torontofantasy.5508494
+,,"Say, a Tuscan hillside in June?",0.8021948875,,,june,cornellmov.6.016463,cornellmov.0094423
+,,Ethan pursed his surprisingly sensual lips..,0.7795706969,,,lips,torontomyst.6.161857,torontomyst.2089206
+,My children devoured these mozzerella sticks!,My children devoured these Mozzarella Sticks!,0.7869687192,,,mozzarella,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.03762702
+1,,"Todd Benjamin, CNN Business News, Tokyo.",0.7987696608,,,tokyo,cocaspok1991.6.003841,cocaspok1991.0056984
+1,,"Tue., June 18, 2013, 11:48 p.m.",0.8685416592,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.00483268
+,,Veni and Son are countryside caterers.,0.8033841709,,,son,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.03825831
+,"NOTD: Collection 2000 hot looks ""Diva"".","NOTD: Collection 2000 Hot Looks ""Diva""",0.8244739079,,,diva,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.02101957
+,,Everything has maple sugar in it.,0.7846707822,,,maple,cocaspok2011.6.006691,cocaspok2011.0085323
+,,A sojourner like all my fathers.,0.7827296462,,,sojourner,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.02094419
+,,Public relations experts in San Diego.,0.7838501329,,,diego,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.04192524
+,,"Alissa Weiss comes from Philadelphia, Pennsylvania.",0.8269899361,,,"philadelphia,pennsylvania",,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.02609025
+,Natural artisan soap handcrafted in Tennessee.,Natural Artisan Soap Handcrafted in Tennessee.,0.8075568079,,,tennessee,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.04207904
+,,He's the real son of God.,0.7818755587,real,,son,cocaspok2005.6.007477,cocaspok2005.0114121
+,,"Aw, it's gotta be a typo.",0.7885981208,,,aw,cornellmov.6.014830,cornellmov.0084527
+,,"Scott cried, pursing his pink lips.",0.7914779847,,,lips,torontomyst.6.081838,torontomyst.1106822
+,,Little cute shoes adorned her feet.,0.7818492742,,,cute,torontofantasy.6.112027,torontofantasy.1607649
+1,,"June 24, 2013.Reading time 5 minutes.",0.8042604788,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.03014090
+,,"It was Wednesday, September 16th, 2015.",0.8176686639,,,september,torontofantasy.6.061942,torontofantasy.909088
+,,Steven looked dapper in Tom Ford.,0.8001011196,,,ford,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.02267896
+,,"For NPR News, I'm Nancy Solomon.",0.7938088104,,,solomon,cocaspok2004.6.000493,cocaspok2004.0006614
+,,"All right, Angela Poe in Mobile.",0.7949825338,,,poe,cocaspok1998.6.002381,cocaspok1998.0034348
+1,,"Handbook of Texas Online, Ben E.",0.8165128205,,,texas,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.00174196
+,,"Dear God, at what a price.",0.7800193399,,,dear,brown.6.001242,brown.024844
+1,,"Translator, writer, blogger, and French prof.",0.7983614237,,,prof,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.04348233
+,Accredited nursing school located in Ohio.,Accredited Nursing School Located in Ohio.,0.7987791867,,,ohio,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.01028832
+,,"For CNN Sports, I'm Matt Morrison.",0.7886015986,,,matt,cocaspok2003.6.002756,cocaspok2003.0047895
+,,Will hold about 400 lbs grapes.,0.7806365223,hold,,grapes,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.02449841
+,,"Yes, the Fray Diego de Landa.",0.8274735405,,,diego,torontofantasy.6.282728,torontofantasy.3682533
+,,The Duchess of Kent visits Italy.,0.7807110895,,,italy,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.02906181
+,,Ford sales fell by 14 percent.,0.7934612327,,,ford,cocaspok1991.6.003774,cocaspok1991.0055341
+,,He's the guy with the cowbell.,0.7875097146,,,guy,cocaspok2006.6.005836,cocaspok2006.0092963
+,,Flights to Cairo and Kiev... canceled.,0.7895433362,,,cairo,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.04280161
+,,"Olivetti pursed his lips, looking dour.",0.7920330187,,,lips,torontomyst.6.066081,torontomyst.916157
+1,,Fay Rogers' son is mildly retarded.,0.793669523,,,son,cocaspok1990.6.003896,cocaspok1990.0057731
+,,Seth didn't even bother chasing Derek.,0.7857589471,,,seth,torontofantasy.6.320999,torontofantasy.4211939
+,,"Tested and verified June 18, 2018.",0.8262596124,,,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.03348671
+,,But it's still clingy and sexy.,0.7862687359,still,clingy,sexy,cocaspok2000.6.005541,cocaspok2000.0092432
+,Does Germany need a plan B?,Does Germany Need a Plan B?,0.7797876142,,,germany,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.01325225
+1,,"Ann Kellan, CNN, Las Vegas, Nevada.",0.8455146645,,,nevada,cocaspok2000.6.002314,cocaspok2000.0039721
+,,Antimatter is yin to matter's yang.,0.8004931093,,,yin,torontomyst.6.065658,torontomyst.911700
+,,I looked at my sleeping son.,0.7815498877,,,son,torontomyst.6.121863,torontomyst.1604573
+1,,"York: John Wiley and Son, Inc.",0.8184958406,,,son,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.03564070
+,,And we bombed Sudan and Afghanistan.,0.7852739618,,,afghanistan,cocaspok2001.6.002070,cocaspok2001.0037520
+,,Now let's talk about Donkey Kong.,0.801358081,,,kong,cocaspok2007.6.009623,cocaspok2007.0122500
+1,,"B3/B. Infusion pumps, San Diego. | | Wednesday |",0.8018920438,,,diego,wsj.6.001926,wsj.347783
+1,,He won the Thanksgiving Vincent T.,0.7854588602,,,thanksgiving,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.02846613
+,,This pineapple salsa is so good!,0.7906645509,,,pineapple,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.03101272
+,,Your baby is so cute too!!,0.7823965351,,,cute,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.02351923
+,,Captain Chas Turner pursed his lips.,0.799142215,,,lips,torontomyst.6.109808,torontomyst.1452841
+,"Customer service on September 7, 2016.","Customer Service. on September 7, 2016.",0.796118645,,,september,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.04460022
+,,And he'll turn 70 in September.,0.8011430265,,,september,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.01207716
+,,"You liked that Memphis Minnie, huh?",0.8071683613,,,minnie,cornellmov.6.018682,cornellmov.0108766
+,,He's up in Washington from Atlanta.,0.8113478574,,,atlanta,cocaspok1991.6.002412,cocaspok1991.0039184
+,Are cash rebates legal in Nevada?,Are Cash Rebates Legal in Nevada?,0.79470815,,,nevada,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.00964339
+,,With me and Texas Mike O'Shay.,0.780464776,,,texas,cornellmov.6.030654,cornellmov.0185743
+1,,I can't fucking believe this guy.,0.7892299305,,,guy,cornellmov.6.017209,cornellmov.0099111
+,,"Jason Carroll in Lancaster County, Pennsylvania.",0.8164250856,,,pennsylvania,cocaspok2006.6.006786,cocaspok2006.0106754
+,,Illinois Cru: 2018 Bermuda Classic Champions!,0.840708768,,bermuda,illinois,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.00619687
+,,It's animal cruelty frying a unicorn.,0.794931547,,,unicorn,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.03089611
+,,But Superman isn't an average man.,0.7880265688,,,"superman,an",cornellmov.6.013926,cornellmov.0079195
+,,"But I'm a patriot, my dear.",0.7850302257,,,dear,torontofantasy.6.354241,torontofantasy.4652768
+,,I didn't write the Elvis verse.,0.7928596857,,,elvis,cocaspok1999.6.010374,cocaspok1999.0135606
+,,Say goodbye to off white icing!,0.7851529467,,,goodbye,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.04376733
+,,"Dear daughter in law, happy birthday!",0.8069607935,,,dear,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.00478761
+,,And that petite lasagna looks amazing!,0.7925930696,amazing,,lasagna,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.01761015
+,,"This is the guy, Gary Giordano.",0.7852716509,,gary,guy,cocaspok2011.6.007261,cocaspok2011.0092238
+,,Did the swine flu ground Jacko?,0.808477678,,,flu,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.00001733
+,Do Texas sheet cakes have nuts?,Do Texas Sheet Cakes Have Nuts?,0.8058122502,,,texas,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.00977578
+,,True analog bypass or DSP bypass.,0.7838566343,,,TRUE,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.00379961
+,,"Oh my son, my poor son!",0.8068924819,,poor,"son,son",cornellmov.6.000324,cornellmov.0002012
+,,"Apparently, Homer didn't mean the deputy.",0.7913656137,,,homer,torontomyst.6.040045,torontomyst.571852
+,,"Aw, c'mon, it's just a bug.",0.8012987195,,,aw,cornellmov.6.013617,cornellmov.0077295
+1,,Cute card!! Love the fun fold!,0.7834742278,,,cute,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.04507365
+,,Rent a Bentley in Courmayeur Italy.,0.8122395452,,,italy,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.00338710
+,,Penny and Keith had no romance.,0.7809038224,,,penny,brown.6.000146,brown.001880
+,,"Please RSVP by Monday, October 29th.",0.811898282,,,rsvp,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.00566825
+1,,"Didn't you see""American Werewolf in London?""",0.8075082218,,,london,cornellmov.6.029588,cornellmov.0179110
+,,"Oh, God, I love you, son.",0.7912291994,,,son,cornellmov.6.024861,cornellmov.0148812
+,"Larry Kelley of Yale, wise guy.","Larry Kelley of Yale., wise guy.",0.7813711714,,,guy,cocaspok1996.6.005243,cocaspok1996.0065836
+,Free and legal Texas Holdem tournaments.,Free amp; Legal Texas Holdem Tournaments.,0.801945158,free,,texas,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.02094196
+,,Fangs cut through Derek's disfigured lips.,0.7917010993,,,lips,torontofantasy.6.340241,torontofantasy.4483420
+,,Decorate with pineapple pieces and cherries.,0.7806307832,,,pineapple,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.04587895
+1,,"Surviving is one son, Charles H.",0.7800521413,,,son,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.02936231
+,,The King's stinking son fired me.,0.7811474627,,,son,cornellmov.6.035805,cornellmov.0218417
+,,Wanda Barzee and Brian David Mitchell.,0.803450344,,,brian,cocaspok2010.6.011978,cocaspok2010.0155005
+,"With extra fried egg, double sinful!","WITH EXTRA fried egg, double sinful!",0.7935202034,,,egg,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.00592011
+,,"Bandits, rustlers, Texas rednecks, Kiowa, Comanche.",0.8299565635,,,texas,cornellmov.6.033618,cornellmov.0204773
+,,"Up first, the Daredevil recap page!",0.7803329273,,,daredevil,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.00066413
+1,"Shades of Gray: Noir, City Shrouded.","SHADES OF GRAY: Noir, City Shrouded.",0.7822648756,,,noir,torontoadv.6.020717,torontoadv.370106
+,,"In Washington, Brian Wilson, Fox News.",0.8119479235,,wilson,brian,cocaspok2005.6.001242,cocaspok2005.0023212
+,,"Nice guy, for an enamel surgeon.",0.7848935398,,,"guy,an",cornellmov.6.003607,cornellmov.0020151
+,,Made at the London Jewellery Quarter.,0.7886151628,,,"london,jewellery",,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.00886315
+1,,University Park: Pennsylvania State University Press.,0.7954581405,,"university,university",pennsylvania,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.04404433
+,,The Yellowstone Caldera is acting weird.,0.7838143141,,,yellowstone,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.01488230
+,,"June 14, 2014 in Photos, Safari.",0.8487650993,,photos,june,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.02530373
+,,But would Scarecrow really beat Wolverine?,0.7854225833,,,wolverine,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.03286638
+,,I love Lush's cute Easter stuff!,0.8063094707,,,cute,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.02276483
+,,Cambodian Service is Sunday at 11:00am.,0.7848037721,,,cambodian,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.04971657
+,,Recently invaded Germany and besieged Hamburg.,0.7930659395,,,germany,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.03279106
+,,"East Bangor, Pennsylvania Good evening, gentlemen.",0.789561537,,,pennsylvania,cocaspok1991.6.002369,cocaspok1991.0038546
+,,It's like the Garden of Eden...,0.7837525922,,,eden,cornellmov.6.005178,cornellmov.0029171
+,,Oh dear god take me now!,0.7888426081,,,dear,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.01173621
+1,,"At a news conference today, Prof.",0.7918264389,,,prof,cocaspok1991.6.005100,cocaspok1991.0083936
+,,"Wallack, Lester's son and James's grandson.",0.8010675511,,,son,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.04679363
+,,View our headlining tattoo artist Gator.,0.7915989262,,,gator,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.04860919
+,,"Top with mozzarella, mushrooms, and peppers.",0.8109284127,,,mozzarella,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.03391464
+,,Gary Tuchman live in Little Havana.,0.8021264489,,gary,havana,cocaspok2000.6.002330,cocaspok2000.0039917
+,,"Man, this guy -- this guy's great.",0.7828090365,,,guy,cocaspok2007.6.006139,cocaspok2007.0081833
+,,So does half of San Diego.,0.782651966,,,diego,cornellmov.6.014768,cornellmov.0084079
+1,,"Juan Williams, NPR News, Jackson, Mississippi.",0.8144801755,,,mississippi,cocaspok2002.6.000211,cocaspok2002.0004368
+,,Plumbing Apprenice courses start September 2019!,0.8174023651,,,september,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.00676073
+,Egg coloring kits are half off!,Egg coloring kids are half off!,0.787551697,,,egg,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.00952059
+,,"Homer Simpson is hungry, very hungry.",0.7852912022,,,homer,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00918-of-01024.json.gz.04487527
+,,"Is Kronos' son, inflexible his thought.",0.7953764747,,,son,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.00300874
+,,"Robert Boochever, Juneau, Alaska, for appellees.",0.81054051,,,alaska,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.04540865
+,,The Party Pineapple tank is here.,0.7823893937,,,pineapple,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00368-of-01024.json.gz.01255236
+,,Shimmer snorted and shook her mane.,0.78349749,,,mane,torontofantasy.6.007535,torontofantasy.108063
+,,"Underground sign, Big Ben, London 2013.",0.8134698835,sign,,london,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.03761163
+,,"I had no choice, Old Son.",0.7814826132,,,son,torontomyst.6.006802,torontomyst.96652
+,,"Andy, Catie, and Sharon waved goodbye.",0.8042748122,waved,sharon,goodbye,torontoadv.6.028722,torontoadv.503994
+,,"Beautiful and cute card, fabulous colouring.",0.781764218,,fabulous,cute,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.03574335
+,,"His son Patrick, his widow Vicki.",0.8025106713,,,son,cocaspok2009.6.007159,cocaspok2009.0090930
+1,,You've got the wrong fucking guy.,0.7853018522,,,guy,cornellmov.6.027681,cornellmov.0166854
+,,Served with Asian basil and lime.,0.800287018,,,basil,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00470-of-01024.json.gz.04619577
+,,"Stefanie Ortolan, a pediatrician from France.",0.8122867868,,,france,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00514-of-01024.json.gz.02602833
+,,"Hi Brian, thanks for the sample.",0.7818552578,,,brian,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.02644635
+,,"Niol licked his lips, tasted her.",0.7834514616,,,lips,torontofantasy.6.442551,torontofantasy.5790335
+,Future law student at Denver University.,Future law Student at Denver University.,0.7897626266,,university,denver,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.02269788
+,,There's nearly 2 million in London.,0.794778369,,,london,cornellmov.6.011417,cornellmov.0064732
+,,Nice bond between father and son.,0.7910727938,,,son,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.03949599
+,,"No, son, I didn't get fired.",0.7834586727,,,son,cornellmov.6.033386,cornellmov.0202997
+,"Cairo, Egypt, for Mel Gibson - hello.","Cairo, Egypt, for Mel Gibson- hello.",0.8277895168,,gibson,cairo,cocaspok1995.6.004376,cocaspok1995.051184
+,Texas FHA home loan limits vary.,Texas FHA Home Loan limits vary.,0.789638619,,,texas,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.03320916
+,,Remember the coalition attack in London?,0.785360758,,,london,cocaspok2006.6.002690,cocaspok2006.0046079
+1,,Boston graduated from Syracuse University's S.I.,0.8383508984,,,syracuse,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.02191187
+,,"Eastern time; in nearby Copiapo, pandemonium.",0.7974119132,,,pandemonium,cocaspok2010.6.009940,cocaspok2010.0129684
+,,You do have a Capone robot.,0.785546339,,,capone,cocaspok1993.6.009865,cocaspok1993.0138949
+,,And my son in intensive care.,0.7827057909,,,son,cocaspok1994.6.003520,cocaspok1994.0047587
+,,"Lovejoy with me, not Chili Palmer.",0.7929429773,,,chili,cornellmov.6.018536,cornellmov.0107737
+,,Acute flaccid paralysis due to rabies.,0.780727591,,,rabies,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.03510678
+,,Cute pic with the camera too.,0.785068681,,,cute,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.03075320
+,,Each bowl is handmade in Peru.,0.7885949172,,,peru,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.02303898
+,,This is from Flips in Philadelphia.,0.7989763496,,,philadelphia,cocaspok2000.6.005957,cocaspok2000.0097103
+,,"Barbara meyers, Marriage, old dogs, retirement.",0.8198987404,,,barbara,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.01525213
+,,"Gary Strieker reports from Kotzebue, Alaska.",0.7997259064,,gary,alaska,cocaspok2004.6.004708,cocaspok2004.0074103
+,,"Friday, September 13th, 2013 at 4:38pm.",0.8452454071,,,september,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00491-of-01024.json.gz.03518410
+,,The capital of Ohio is Columbus.,0.78100689,,,ohio,cocaspok2000.6.001085,cocaspok2000.0020370
+,,"Wait a sec, Nicky, Nicky, Nicky.",0.8014574231,,,sec,cornellmov.6.028261,cornellmov.0170627
+,,"His grin flashed, cocksure and sexy.",0.7823599223,,,sexy,torontofantasy.6.431771,torontofantasy.5694865
+,,"Congressman Henry Hyde, Republican of Illinois.",0.7902283713,,,illinois,cocaspok2001.6.007370,cocaspok2001.0111863
+,,Who -- that guy at the Zoo?,0.7825692959,,,guy,cornellmov.6.001975,cornellmov.0011172
+,Texas steak dinner on a stick?,Texas Steak Dinner on a Stick:?,0.7837251456,,,texas,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00480-of-01024.json.gz.01206833
+,,Your men did kill Kirk's son.,0.7965491163,,,son,cornellmov.6.024271,cornellmov.0144904
+1,,"John Hall - Bolingbrook H.S.; Bolingbrook, Illinois.",0.8159187641,,,illinois,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00961-of-01024.json.gz.00218060
+,,Titanium Metals is a titanium producer.,0.7893829899,,,"titanium,titanium",wsj.6.002284,wsj.415491
+,Free puck retrieved by Matt Niskanen.,Free Puck Retrieved by Matt Niskanen.,0.8043018945,free,,matt,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00242-of-01024.json.gz.03790610
+,,Or read tweets about Santa Barbara?,0.789252623,,,barbara,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00727-of-01024.json.gz.04036368
+,,We'll go to Gary in Tennessee.,0.7948908799,,gary,tennessee,cocaspok1993.6.009485,cocaspok1993.0132803
+,,Vinny looked like a symphony conductor.,0.7855937941,,,vinny,torontomyst.6.010076,torontomyst.140486
+,Delicious Estonian cake full of blueberries.,Delicious Estonian cake full of Blueberries.,0.7944375226,full,,blueberries,,c4_-om2-data-public-allenai-c4-c4-en-c4-train.00196-of-01024.json.gz.02912988
+,,I'm doing this for my son.,0.7836251108,,,son,torontofantasy.6.004857,torontofantasy.66621
